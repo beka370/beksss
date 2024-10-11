@@ -1,0 +1,48 @@
+body {
+    background-image:url(360_F_370356524_7x9V1bkGksKyTJzskUVbxIv81KVx2yT0.jpg) ;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+}
+h1 {
+    text-align: center;
+    color: rgb(6, 6, 73);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.super {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    text-align: center;
+    background: size 50px;
+}
+h4 {
+  color: rgb(241, 213, 2);
+ font-family:  Blink 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.werty {
+    background-color: rgb(6, 6, 73);
+    border-spacing: 50px;
+    text-align: center;
+    height: 80px;
+    border-radius:8px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70px;
+    margin-right: 70px;
+
+    
+
+   
+}
+h2 {
+    color:white ;
+    text-align: center;
+
+}
+img {
+   margin-top: 60px;
+   height: 80px;
+}
